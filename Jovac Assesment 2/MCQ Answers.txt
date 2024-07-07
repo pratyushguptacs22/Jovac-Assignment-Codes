@@ -1,0 +1,20 @@
+Q1. b) using <link> tag
+
+Q2. b) using p tag
+
+Q3. b) false
+
+Q4. b) false
+
+Q5. c) 10000000000
+
+Q8. c) map function
+
+Q10. C) []
+
+Q11. B) display : none removes the element from the dom
+while visibility : hidden just hides the element.
+
+Q12. A) 4 10 18
+
+Q13. A) [1,2,3,4]
