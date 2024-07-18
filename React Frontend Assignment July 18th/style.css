@@ -1,0 +1,133 @@
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #212121;
+}
+
+a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+a:hover {
+  color: #23527c;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Course Page Styles */
+
+.course-page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.course-page h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #00698f;
+}
+
+.course-page ul {
+  margin-bottom: 20px;
+}
+
+.course-page li {
+  margin-bottom: 10px;
+}
+
+.course-page a {
+  color: #337ab7;
+}
+
+.course-page a:hover {
+  color: #23527c;
+}
+
+/* Instructor Styles */
+
+.instructor {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+}
+
+.instructor h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #666;
+}
+
+/* Related Course Styles */
+
+.related-course {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+}
+
+.related-course h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #666;
+}
+
+.related-course ul {
+  margin-bottom: 20px;
+}
+
+.related-course li {
+  margin-bottom: 10px;
+}
+
+.related-course a {
+  color: #337ab7;
+}
+
+.related-course a:hover {
+  color: #23527c;
+}
+
+/* Button Styles */
+
+button {
+  background-color: #337ab7;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #23527c;
+}
